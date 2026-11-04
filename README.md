@@ -1,4 +1,5 @@
 # weather_yw4829
+[![ci](https://github.com/QMSS-G5072-2026/weather_wang_yuetong/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_wang_yuetong/actions/workflows/ci.yml)
 
 Tools for cleaning and summarizing weather data
 
